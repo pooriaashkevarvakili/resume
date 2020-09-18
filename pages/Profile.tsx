@@ -62,22 +62,8 @@ const Profile: React.FunctionComponent<AppProps> = ({}) => {
                   >
                     <i className="fa fa-gitlab"></i>
                   </a>
-                  <a
-                    className="btn btn-default btn-round btn-lg btn-icon"
-                    href="https://twitter.com/pooriavakili09"
-                    rel="tooltip"
-                    title="Follow me on Twitter"
-                  >
-                    <i className="fa fa-twitter"></i>
-                  </a>
-                  <a
-                    className="btn btn-default btn-round btn-lg btn-icon"
-                    href="https://web.telegram.org/pooriaashkevarvakili"
-                    rel="tooltip"
-                    title="Follow me on Telegram"
-                  >
-                    <i className="fa fa-telegram"></i>
-                  </a>
+                
+                 
 
                   <a
                     className="btn btn-default btn-round btn-lg btn-icon"
@@ -87,14 +73,7 @@ const Profile: React.FunctionComponent<AppProps> = ({}) => {
                   >
                     <i className="fa fa-github"></i>
                   </a>
-                  <a
-                    className="btn btn-default btn-round btn-lg btn-icon"
-                    href="https://www.instagram.com/pooriaashkevarvakili"
-                    rel="tooltip"
-                    title="Follow me on Instagram"
-                  >
-                    <i className="fa fa-instagram"></i>
-                  </a>
+                
                   <a
                     className="btn btn-default btn-round btn-lg btn-icon"
                     href="https://www.linkedin.com/in/pooria-vakili-6457a917a/"
@@ -102,6 +81,14 @@ const Profile: React.FunctionComponent<AppProps> = ({}) => {
                     title="Follow me on Linkedin"
                   >
                     <i className="fa fa-linkedin"></i>
+                  </a>
+                  <a
+                    className="btn btn-default btn-round btn-lg btn-icon"
+                    href="https://web.telegram.org/pooriaashkevarvakili"
+                    rel="tooltip"
+                    title="Follow me on Telegram"
+                  >
+                    <i className="fa fa-telegram"></i>
                   </a>
                 </div>
               </div>
