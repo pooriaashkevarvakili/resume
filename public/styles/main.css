@@ -2895,6 +2895,7 @@ p {
 
 .title {
   font-weight: 700;
+  color:#fff;
 }
 
 .title.title-up {
@@ -4729,6 +4730,7 @@ Created using IcoMoon - icomoon.io
 
 .footer {
   padding: 24px 0;
+  background-color:#000;
 }
 
 .footer.footer-default {
