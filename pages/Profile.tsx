@@ -17,12 +17,12 @@ const Profile: React.FunctionComponent<AppProps> = ({}) => {
                   </a>
                 </div>
                 <div className="h2 title">PooriaAshkevarVakili</div>
-                <p className="category text-white">
+                <p className="text-white category">
                   Front-end Web Developer react, Front-end Mobile react-native,
                   html css js
                 </p>
                 <a
-                  className="btn btn-primary smooth-scroll mr-2"
+                  className="mr-2 btn btn-primary smooth-scroll"
                   href="#contact"
                   data-aos="zoom-in"
                   data-aos-anchor="data-aos-anchor"
@@ -86,6 +86,22 @@ const Profile: React.FunctionComponent<AppProps> = ({}) => {
                     title="Follow me on GitHub"
                   >
                     <i className="fa fa-github"></i>
+                  </a>
+                  <a
+                    className="btn btn-default btn-round btn-lg btn-icon"
+                    href="https://www.instagram.com/pooriaashkevarvakili"
+                    rel="tooltip"
+                    title="Follow me on Instagram"
+                  >
+                    <i className="fa fa-instagram"></i>
+                  </a>
+                  <a
+                    className="btn btn-default btn-round btn-lg btn-icon"
+                    href="https://www.linkedin.com/in/pooria-vakili-6457a917a/"
+                    rel="tooltip"
+                    title="Follow me on Linkedin"
+                  >
+                    <i className="fa fa-linkedin"></i>
                   </a>
                 </div>
               </div>
