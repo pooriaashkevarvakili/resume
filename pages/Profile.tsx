@@ -2,7 +2,7 @@ import PDFViewer from "pdf-viewer-reactjs";
 interface AppProps {}
 
 const Profile: React.FunctionComponent<AppProps> = ({}) => {
-  const Change = () => {};
+  
   return (
     <>
       <div className="profile-page">
