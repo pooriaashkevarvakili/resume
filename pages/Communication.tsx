@@ -33,14 +33,7 @@ const Communication: React.FunctionComponent<AppProps> = ({
     >
       <i className="fa fa-linkedin"></i>
     </a>
-    <a
-      className="btn btn-default btn-round btn-lg btn-icon"
-      href="https://web.telegram.org/pooriaashkevarvakili"
-      rel="tooltip"
-      title="Follow me on Telegram"
-    >
-      <i className="fa fa-telegram"></i>
-    </a>
+  
   </div>
 </div>
 </div>    
