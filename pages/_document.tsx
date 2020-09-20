@@ -12,6 +12,10 @@ export default class MyDocument extends Document {
               name="viewport"
               content="width=device-width, initial-scale=1.0"
             />
+            <link rel="manifest" href="/manifest.json" />
+            <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png" />
+<link rel="apple-touch-icon" href="/apple-icon.png"></link>
+<meta name="theme-color" content="#317EFB"/>
       <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet"/>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet"/>
     <link href="css/aos.css" rel="stylesheet"/>
