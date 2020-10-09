@@ -45,9 +45,9 @@ const Portfolio: React.FunctionComponent<AppProps> = ({}) => {
                       data-aos="fade-up"
                       data-aos-anchor-placement="top-bottom"
                     >
-                      <a href="http://portfoliotwenty.surge.sh/">
+                      <a href="https://gitlab.com/pooriavakili/portfoliofourteen">
                         <figure className="cc-effect">
-                          <img src="images/twenty.png" alt="Image" />
+                          <img src="images/fourteen.jpg" alt="Image" />
                           <figcaption>
                             <div className="h4">portfolioone</div>
                             <p>Web Development</p>
@@ -60,9 +60,9 @@ const Portfolio: React.FunctionComponent<AppProps> = ({}) => {
                       data-aos="fade-up"
                       data-aos-anchor-placement="top-bottom"
                     >
-                      <a href="http://portfolioeighteen.surge.sh/">
+                      <a href="https://gitlab.com/pooriavakili/portfolioseventeen">
                         <figure className="cc-effect">
-                          <img src="images/Gallery.png" alt="Image" />
+                          <img src="images/seventeen.jpg" alt="Image" />
                           <figcaption>
                             <div className="h4">portfoliotwo</div>
                             <p>Web Development</p>
@@ -77,9 +77,9 @@ const Portfolio: React.FunctionComponent<AppProps> = ({}) => {
                       data-aos="fade-up"
                       data-aos-anchor-placement="top-bottom"
                     >
-                      <a href="http://portfoliothreeteen.surge.sh/">
+                      <a href="https://gitlab.com/pooriavakili/portfolioeight">
                         <figure className="cc-effect">
-                          <img src="images/Mina.png" alt="Image" />
+                          <img src="images/eight.jpg" alt="Image" />
                           <figcaption>
                             <div className="h4">portfolioThree</div>
                             <p>Web Development</p>
@@ -92,9 +92,9 @@ const Portfolio: React.FunctionComponent<AppProps> = ({}) => {
                       data-aos="fade-up"
                       data-aos-anchor-placement="top-bottom"
                     >
-                      <a href="http://portfolionineteen.surge.sh/">
+                      <a href="https://gitlab.com/pooriavakili/portfolioseven">
                         <figure className="cc-effect">
-                          <img src="images/portfolio.png" alt="Image" />
+                          <img src="images/seven.jpg" alt="Image" />
                           <figcaption>
                             <div className="h4">portfolioFour</div>
                             <p>Web Development</p>
