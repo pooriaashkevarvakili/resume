@@ -25,16 +25,13 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
               <p>zhoon</p>
             </figcaption>
           </figure>
-        </a>
-      </div>
-    </div>
-    <div className="col-md-6">
-      <div
-        className="cc-porfolio-image img-raised"
-        data-aos="fade-up"
-        data-aos-anchor-placement="top-bottom"
-      ></div>
-      <div
+                </a>
+           
+              </div>
+              
+            </div>
+            <div className="col-md-6">
+            <div
         className="cc-porfolio-image img-raised"
         data-aos="fade-up"
         data-aos-anchor-placement="top-bottom"
@@ -50,8 +47,30 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
               <p>drkarafarini</p>
             </figcaption>
           </figure>
+                </a>
+            
+      </div>
+              </div>
+    <div className="col-md-6">
+      <div
+        className="cc-porfolio-image img-raised"
+        data-aos="fade-up"
+        data-aos-anchor-placement="top-bottom"
+              >
+                     <a href="https://www.hacoupianinc.com/">
+          <figure className="cc-effect">
+            <img src="images/hakupian.png" alt="Image" />
+            <figcaption>
+              <div className="h4">
+                {" "}
+                one month work experience
+              </div>
+              <p>Hakupian</p>
+            </figcaption>
+          </figure>
         </a>
       </div>
+   
     </div>
   </div>
 </div>
