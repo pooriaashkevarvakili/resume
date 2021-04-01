@@ -27,7 +27,7 @@ const Communication: React.FunctionComponent<AppProps> = ({
     </a>
     <a
       className="btn btn-default btn-round btn-lg btn-icon"
-      href="https://www.linkedin.com/in/pooria-vakili-6457a917a/"
+      href="https://www.linkedin.com/in/pooria-ashkevar-vakili-6457a917a"
       rel="tooltip"
       title="Follow me on Linkedin"
     >

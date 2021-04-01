@@ -63,7 +63,7 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
             <figcaption>
               <div className="h4">
                 {" "}
-                one month work experience
+                six month work experience
               </div>
               <p>Hakupian</p>
             </figcaption>

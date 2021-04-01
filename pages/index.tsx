@@ -7,7 +7,6 @@ import About from "./About";
 import Skill from "./Skill";
 import Portfolio from "./Portfolio";
 import Experience from "./Experience";
-import Reference from "./Reference";
 import Contact from "./Contact";
 // ------------------------------ ---------------------- --------
 interface AppProps {
