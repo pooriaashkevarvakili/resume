@@ -16,9 +16,9 @@ const About: React.FunctionComponent<AppProps> = ({
         <div className="col-lg-6 col-md-12">
           <div className="card-body">
             <div className="h4 mt-0 title">About</div>
-            <p>Hi! I am pooriaashkevarvakili. front-end Developer, react-developer and react-native developer.</p>
-            <p>I work junior front-end web developer react-js,next-js cra
-            I work junior front-end mobile developer react-native
+            <p>Hi! I am pooriaashkevarvakili. front-end Developer, react-developer ,react-native developer and vue js develper</p>
+            <p>
+              mid-level frontend developer
              </p>
           </div>
         </div>

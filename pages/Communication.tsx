@@ -11,7 +11,7 @@ const Communication: React.FunctionComponent<AppProps> = ({
   <div className="button-container">
     <a
       className="btn btn-default btn-round btn-lg btn-icon"
-      href="https://gitlab.com/pooriavakili"
+      href="https://gitlab.com/pooriaashkevarvakili"
       rel="tooltip"
       title="Follow me on Gitlab"
     >
@@ -19,7 +19,7 @@ const Communication: React.FunctionComponent<AppProps> = ({
     </a>
     <a
       className="btn btn-default btn-round btn-lg btn-icon"
-      href="https://github.com/pooriavakili"
+      href="https://github.com/pooriaashkevarvakili"
       rel="tooltip"
       title="Follow me on GitHub"
     >

@@ -31,9 +31,8 @@ const Experience: React.FunctionComponent<AppProps> = ({}) => {
                 <div className="card-body">
                   <div className="h5">Front End Developer React</div>
                   <p>
-                    I since started 2018 React , java-script,and with
-                    cra,jsx,javascript to css ,cra-next,ssr,ssg,redux,typescript
-                    worked{" "}
+                    ant-design react ,next-js redux-thunk
+                    {" "}
                   </p>
                 </div>
               </div>
@@ -59,8 +58,8 @@ const Experience: React.FunctionComponent<AppProps> = ({}) => {
                 data-aos-duration="500"
               >
                 <div className="card-body">
-                  <div className="h5">html css js developer</div>
-                  <p>I since started 2018 html css js sass worked </p>
+                  <div className="h5">vue developer</div>
+                  <p>ant-design-vue or vuetify quasar </p>
                 </div>
               </div>
             </div>
@@ -87,7 +86,7 @@ const Experience: React.FunctionComponent<AppProps> = ({}) => {
                 <div className="card-body">
                   <div className="h5">React-native</div>
                   <p>
-                    I since started 2018 react-navigation ,view ,... worked.
+i six month work react-native
                   </p>
                 </div>
               </div>

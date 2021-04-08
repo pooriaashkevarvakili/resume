@@ -19,8 +19,10 @@ const Profile: React.FunctionComponent<AppProps> = ({ }) => {
                 </div>
                 <div className="h2 title">PooriaAshkevarVakili</div>
                 <p className="text-white category">
-                  Front-end Web Developer react, Front-end Mobile react-native,
-                  html css js
+                  Front-end developer web and mobile
+                </p>
+                <p className="text-white category">
+react-js vue-js react-native
                 </p>
                 <a
                   className="mr-2 btn btn-primary smooth-scroll"
@@ -40,16 +42,7 @@ const Profile: React.FunctionComponent<AppProps> = ({ }) => {
                 >
                   Cv resume
                 </a>
-                <a
-                  style={{ marginLeft: 10 }}
-                  className="btn btn-primary"
-                  target="_blank"
-                  href="./resume/resume1.jpg"
-                  data-aos="zoom-in"
-                  data-aos-anchor="data-aos-anchor"
-                >
-                  Cv resume 2
-                </a>
+
               </div>
             </div>
             <Communication/>

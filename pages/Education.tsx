@@ -22,7 +22,8 @@ const Education: React.FunctionComponent<AppProps> = ({
           <div className="card-body">
             <div className="h5">Master of Information Technology</div>
             <p className="category">University of Computer Science</p>
-            <p>i was university in elmy karbordy shohaday nejaja and field university network it and bachelor's degree study </p>
+            <p>elmy-karbordy shaday nezaja </p>
+            <p>2013-2017</p>
           </div>
         </div>
       </div>
@@ -39,7 +40,8 @@ const Education: React.FunctionComponent<AppProps> = ({
           <div className="card-body">
             <div className="h5">Science and Mathematics</div>
             <p className="category">School of Secondary board</p>
-            <p>i in highschool khaje nasir stadied and field was it </p>
+            <p>highschool khajenasir </p>
+            <p>2007-2010</p>
           </div>
         </div>
       </div>
