@@ -60,13 +60,7 @@ const Skill: React.FunctionComponent<AppProps> = ({
           </div>
         </div>
         <div className="row">
-          <div className="col-md-6">
-            <div className="progress-container progress-primary"><span className="progress-badge">React</span>
-              <div className="progress">
-                <div className="progress-bar progress-bar-primary style2" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
-              </div>
-            </div>
-          </div>
+
           <div className="col-md-6">
             <div className="progress-container progress-primary"><span className="progress-badge">vue-js</span>
               <div className="progress">

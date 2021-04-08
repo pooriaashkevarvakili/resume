@@ -27,7 +27,7 @@ const About: React.FunctionComponent<AppProps> = ({
             <div className="h4 mt-0 title">Basic Information</div>
             <div className="row">
               <div className="col-sm-4"><strong className="text-uppercase">Age:</strong></div>
-              <div className="col-sm-8">28</div>
+              <div className="col-sm-8">29</div>
             </div>
             <div className="row mt-3">
               <div className="col-sm-4"><strong className="text-uppercase">Email:</strong></div>

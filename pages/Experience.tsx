@@ -47,7 +47,7 @@ const Experience: React.FunctionComponent<AppProps> = ({}) => {
                 data-aos-duration="500"
               >
                 <div className="card-body cc-experience-header">
-                  <p>March 2018 </p>
+                  <p>March 2021 </p>
                   <div className="h5">WebDeveloper</div>
                 </div>
               </div>
