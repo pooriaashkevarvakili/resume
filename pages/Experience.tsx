@@ -59,7 +59,8 @@ const Experience: React.FunctionComponent<AppProps> = ({}) => {
               >
                 <div className="card-body">
                   <div className="h5">vue developer</div>
-                  <p>ant-design-vue or vuetify quasar </p>
+                  <p>I am work ant-design-vue , vuetify, quasar or vite
+                  </p>
                 </div>
               </div>
             </div>
@@ -86,7 +87,8 @@ const Experience: React.FunctionComponent<AppProps> = ({}) => {
                 <div className="card-body">
                   <div className="h5">React-native</div>
                   <p>
-i six month work react-native
+                    i month six work react-native
+
                   </p>
                 </div>
               </div>

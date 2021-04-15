@@ -21,7 +21,8 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
           <figure className="cc-effect">
             <img src="images/zhoon.png" alt="Image" />
             <figcaption>
-              <div className="h4">tree month work experience</div>
+              <div className="h4">month three work experience
+              </div>
               <p>zhoon</p>
             </figcaption>
           </figure>
@@ -42,7 +43,7 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
             <figcaption>
               <div className="h4">
                 {" "}
-                seven month work experience
+                month seven work experience
               </div>
               <p>drkarafarini</p>
             </figcaption>
@@ -63,7 +64,7 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
             <figcaption>
               <div className="h4">
                 {" "}
-                seven month work experience
+                month seven work experience
               </div>
               <p>Hakupian</p>
             </figcaption>
