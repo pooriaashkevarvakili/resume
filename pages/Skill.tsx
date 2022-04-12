@@ -52,7 +52,62 @@ const Skill: React.FunctionComponent<AppProps> = ({
             </div>
           </div>
           <div className="col-md-6">
-            <div className="progress-container progress-primary"><span className="progress-badge">React-native</span>
+            <div className="progress-container progress-primary"><span className="progress-badge">git git-lab git-hub</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">tailwind</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">ant-design-react</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">vuex</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">sass,less</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">typescript</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">redux</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+          </div>         <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">context-api</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">ant-design-vue</span>
               <div className="progress">
                 <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
               </div>
@@ -63,6 +118,13 @@ const Skill: React.FunctionComponent<AppProps> = ({
 
           <div className="col-md-6">
             <div className="progress-container progress-primary"><span className="progress-badge">vue-js</span>
+              <div className="progress">
+                <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
+              </div>
+            </div>
+                </div>
+                          <div className="col-md-6">
+            <div className="progress-container progress-primary"><span className="progress-badge">vue-sax</span>
               <div className="progress">
                 <div className="progress-bar progress-bar-primary style4" data-aos="progress-full" data-aos-offset="10" data-aos-duration="2000" role="progressbar" aria-valuenow={60} aria-valuemin={0} aria-valuemax={100} ></div><span className="progress-value"></span>
               </div>

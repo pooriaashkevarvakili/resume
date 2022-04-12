@@ -31,7 +31,7 @@ const Experience: React.FunctionComponent<AppProps> = ({}) => {
                 <div className="card-body">
                   <div className="h5">Front End Developer React</div>
                   <p>
-                    ant-design react ,next-js redux-thunk
+                    ant-design react ,next-js,redux redux-thunk context-api 
                     {" "}
                   </p>
                 </div>
@@ -59,36 +59,7 @@ const Experience: React.FunctionComponent<AppProps> = ({}) => {
               >
                 <div className="card-body">
                   <div className="h5">vue developer</div>
-                  <p>I am work ant-design-vue , vuetify, quasar or vite
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="card">
-            <div className="row">
-              <div
-                className="col-md-3 bg-primary"
-                data-aos="fade-right"
-                data-aos-offset="50"
-                data-aos-duration="500"
-              >
-                <div className="card-body cc-experience-header">
-                  <p>March 2018 </p>
-                  <div className="h5">Mobile Developer</div>
-                </div>
-              </div>
-              <div
-                className="col-md-9"
-                data-aos="fade-left"
-                data-aos-offset="50"
-                data-aos-duration="500"
-              >
-                <div className="card-body">
-                  <div className="h5">React-native</div>
-                  <p>
-                    i month six work react-native
-
+                  <p>I am work ant-design-vue,vite
                   </p>
                 </div>
               </div>

@@ -11,26 +11,7 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
       <div className="tab-pane" id="graphic-design" role="tabpanel">
 <div className="ml-auto mr-auto">
   <div className="row">
-    <div className="col-md-6">
-      <div
-        className="cc-porfolio-image img-raised"
-        data-aos="fade-up"
-        data-aos-anchor-placement="top-bottom"
-      >
-        <a href="https://zhoon.ir/">
-          <figure className="cc-effect">
-            <img src="images/zhoon.png" alt="Image" />
-            <figcaption>
-              <div className="h4">month three work experience
-              </div>
-              <p>zhoon</p>
-            </figcaption>
-          </figure>
-                </a>
-           
-              </div>
-              
-            </div>
+    
             <div className="col-md-6">
             <div
         className="cc-porfolio-image img-raised"
@@ -43,7 +24,7 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
             <figcaption>
               <div className="h4">
                 {" "}
-                month seven work experience
+                two year  work experience
               </div>
               <p>drkarafarini</p>
             </figcaption>
@@ -64,9 +45,30 @@ const WorkExperience: React.FunctionComponent<AppProps> = ({
             <figcaption>
               <div className="h4">
                 {" "}
-                month ten work experience
+                one year work experience
               </div>
               <p>Hakupian</p>
+            </figcaption>
+          </figure>
+        </a>
+      </div>
+   
+            </div>
+              <div className="col-md-6">
+      <div
+        className="cc-porfolio-image img-raised"
+        data-aos="fade-up"
+        data-aos-anchor-placement="top-bottom"
+              >
+                     <a href="https://www.avajang.com/">
+          <figure className="cc-effect">
+            <img src="images/avajang.png" alt="Image" />
+            <figcaption>
+              <div className="h4">
+                {" "}
+                five month work experience
+              </div>
+              <p>avajang</p>
             </figcaption>
           </figure>
         </a>

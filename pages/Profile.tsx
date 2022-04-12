@@ -19,10 +19,10 @@ const Profile: React.FunctionComponent<AppProps> = ({ }) => {
                 </div>
                 <div className="h2 title">PooriaAshkevarVakili</div>
                 <p className="text-white category">
-                  Front-end developer web and mobile
+                  Front-end developer web 
                 </p>
                 <p className="text-white category">
-react-js vue-js react-native
+react-js vue-js 
                 </p>
                 <a
                   className="mr-2 btn btn-primary smooth-scroll"
@@ -42,7 +42,33 @@ react-js vue-js react-native
                 >
                   Cv resume
                 </a>
-
+                <a
+                  className="btn  btn-primary"
+                  target="_blank"
+                  href="./resume/resume-01.jpg"
+                  data-aos="zoom-in"
+                  data-aos-anchor="data-aos-anchor"
+                >
+                  Cv resume01
+                </a>
+                 <a
+                  className="btn  btn-primary"
+                  target="_blank"
+                  href="./resume/resume-02.jpg"
+                  data-aos="zoom-in"
+                  data-aos-anchor="data-aos-anchor"
+                >
+                  Cv resume02
+                </a>
+                  <a
+                  className="btn  btn-primary"
+                  target="_blank"
+                  href="./resume/resume-03.jpg"
+                  data-aos="zoom-in"
+                  data-aos-anchor="data-aos-anchor"
+                >
+                  Cv resume03
+                </a>
               </div>
             </div>
             <Communication/>
