@@ -1,2 +1,4 @@
 http://pooriaashkevarvakili-resume.surge.sh/
-hi this site hit with next-js 
+#resume
+in project vuejs quasar website resume 
+quasar dev
